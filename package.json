@@ -1,0 +1,23 @@
+{
+  "name": "multilang-shop",
+  "version": "1.0.0",
+  "description": "Multidilli e-commerce sayt skeleton (AZ + EN)",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "start": "vite"
+  },
+  "dependencies": {
+    "i18next": "^23.6.3",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-i18next": "^13.0.2"
+  },
+  "devDependencies": {
+    "@types/react": "^18.2.14",
+    "@types/react-dom": "^18.2.7",
+    "typescript": "^5.3.3",
+    "vite": "^5.2.0"
+  }
+}
